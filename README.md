@@ -1,6 +1,6 @@
 # Module 01 Mini-Project: Landing Page
 
-This Mini-project for Uoft Coding Bootcamp was dont following the instruction below:
+This Mini-project for Uoft Coding Bootcamp was done following the instruction below:
 
 ## Instructions
 
